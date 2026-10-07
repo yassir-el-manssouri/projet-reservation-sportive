@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚽ Sports Arena — Plateforme de Réservation de Terrains & Complexes Sportifs
+# ⚽ SportReserve — Plateforme de Réservation de Terrains & Complexes Sportifs
 
 [![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
